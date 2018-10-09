@@ -1,6 +1,5 @@
-var i = "";
 function main() {
-    var i = prompt("Gib deinen Namen ein");
+    var i = "Gib deinen Namen ein";
     var node = document.getElementById("content");
     node.innerHTML += "Gruezi";
     node.innerHTML += i;

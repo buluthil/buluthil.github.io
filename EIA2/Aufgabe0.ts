@@ -1,7 +1,7 @@
 
         
     function main() {
-        var i: string = "Gib deinen Namen ein";
+        var i: string = ("Gib deinen Namen ein");
         var node : HTMLElement = document.getElementById("content");
         node.innerHTML += "Gruezi";
         node.innerHTML += i;

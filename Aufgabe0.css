@@ -42,6 +42,7 @@ a{
 	font-size:4em;
 	text-decoration:none;
 	margin:1em;
+	text-decoration:underline;
 }
 
 button:hover {
